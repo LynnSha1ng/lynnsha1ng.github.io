@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
   <title>LynnSha1ng的博客</title>
@@ -13,6 +12,15 @@
 </head>
 
 
+<script>
+  (function () {
+    const redir = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redir && redir !== location.href) {
+      history.replaceState(null, null, redir);
+    }
+  })();
+</script>
 
 <body>
   <div class="loading_container">
