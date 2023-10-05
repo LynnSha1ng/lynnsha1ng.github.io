@@ -1,2 +1,2 @@
-import{o as n,d as o}from"./index-2b4fa3dd.js";const i={title:"我TM吃吃吃吃吃！",publishTime:"2023-09-24 19:19",category:"生活",tags:["校园","美食","Minecraft","明日方舟","PVZ2"],id:"004"},m=`<p>阿巴阿巴</p>
+import{o as n,d as o}from"./index-8df6cb24.js";const i={title:"我TM吃吃吃吃吃！",publishTime:"2023-09-24 19:19",category:"生活",tags:["校园","美食","Minecraft","明日方舟","PVZ2"],id:"004"},m=`<p>阿巴阿巴</p>
 `,p=[];function e(t,s){return n(),o("p",null,"阿巴阿巴")}const r={render:e};r.__hmrId="D:/Study/Frontend/MyBlog/src/assets/posts/time-test1.md";const a=t=>({components:t,render:e});export{r as VueComponent,a as VueComponentWith,i as attributes,m as html,p as toc};
