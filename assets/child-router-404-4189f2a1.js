@@ -1,4 +1,4 @@
-import{o,d as i,F as s,ah as l,k as t}from"./index-8df6cb24.js";const m={title:"解决问题：Github(Gitee) Pages上的Vue项目刷新页面时子路由报404",cover:"https://s2.loli.net/2023/09/27/gHRQzUPmMVwd6by.png",publishTime:"2023-09-20 15:32",category:"解惑",tags:["前端","Vue","解惑"],id:"002"},x=`<h2>遇到问题</h2>
+import{o,d as i,F as s,ah as l,k as t}from"./index-dd85471d.js";const m={title:"解决问题：Github(Gitee) Pages上的Vue项目刷新页面时子路由报404",cover:"https://s2.loli.net/2023/09/27/gHRQzUPmMVwd6by.png",publishTime:"2023-09-20 15:32",category:"学习",tags:["前端","Vue","解决方案"],id:"post001"},x=`<h2>遇到问题</h2>
 <p>这天我试着把这个静态博客部署到Github Pages上。部署过程不难，网页也如预期加载。然后我随手刷新了一下，发现页面直接报404了。</p>
 <p><img src="https://s2.loli.net/2023/09/22/qhbI8VLkP5EKYon.png" alt="LB-0002.png"></p>
 <h2>解决问题</h2>
