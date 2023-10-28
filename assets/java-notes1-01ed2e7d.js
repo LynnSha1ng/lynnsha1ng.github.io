@@ -1,4 +1,4 @@
-import{o as a,b as o,F as s,an as p,j as e,L as l}from"./index-fb3a2109.js";const v={title:"Java基础学习笔记（一）：环境搭建",cover:"https://s2.loli.net/2023/10/12/XJPFkxYaQ8b2Ufo.jpg",publishTime:"2023-10-11 21:16",category:"学习",tags:["Java","学习笔记","软件安装激活教程"],id:"post002"},b=`<h2>Java</h2>
+import{o as a,b as o,F as s,an as p,j as e,L as l}from"./index-c7b4eb2a.js";const v={title:"Java基础学习笔记（一）：环境搭建",cover:"https://s2.loli.net/2023/10/12/XJPFkxYaQ8b2Ufo.jpg",publishTime:"2023-10-11 21:16",category:"学习",tags:["Java","学习笔记","软件安装激活教程"],id:"post002"},b=`<h2>Java</h2>
 <p>挂几个网址：
 <a href="https://www.oracle.com/cn/java/technologies/downloads/">Oracle官网下载</a></p>
 <p><a href="https://www.injdk.cn/">Java I Tell You</a>（国内JDK镜像源）</p>
